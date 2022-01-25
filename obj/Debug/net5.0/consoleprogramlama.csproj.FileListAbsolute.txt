@@ -1,0 +1,16 @@
+C:\Users\dell\desktop\YasinPratikler\consoleprogramlama\bin\Debug\net5.0\consoleprogramlama.exe
+C:\Users\dell\desktop\YasinPratikler\consoleprogramlama\bin\Debug\net5.0\consoleprogramlama.deps.json
+C:\Users\dell\desktop\YasinPratikler\consoleprogramlama\bin\Debug\net5.0\consoleprogramlama.runtimeconfig.json
+C:\Users\dell\desktop\YasinPratikler\consoleprogramlama\bin\Debug\net5.0\consoleprogramlama.runtimeconfig.dev.json
+C:\Users\dell\desktop\YasinPratikler\consoleprogramlama\bin\Debug\net5.0\consoleprogramlama.dll
+C:\Users\dell\desktop\YasinPratikler\consoleprogramlama\bin\Debug\net5.0\ref\consoleprogramlama.dll
+C:\Users\dell\desktop\YasinPratikler\consoleprogramlama\bin\Debug\net5.0\consoleprogramlama.pdb
+C:\Users\dell\desktop\YasinPratikler\consoleprogramlama\obj\Debug\net5.0\consoleprogramlama.csproj.AssemblyReference.cache
+C:\Users\dell\desktop\YasinPratikler\consoleprogramlama\obj\Debug\net5.0\consoleprogramlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\desktop\YasinPratikler\consoleprogramlama\obj\Debug\net5.0\consoleprogramlama.AssemblyInfoInputs.cache
+C:\Users\dell\desktop\YasinPratikler\consoleprogramlama\obj\Debug\net5.0\consoleprogramlama.AssemblyInfo.cs
+C:\Users\dell\desktop\YasinPratikler\consoleprogramlama\obj\Debug\net5.0\consoleprogramlama.csproj.CoreCompileInputs.cache
+C:\Users\dell\desktop\YasinPratikler\consoleprogramlama\obj\Debug\net5.0\consoleprogramlama.dll
+C:\Users\dell\desktop\YasinPratikler\consoleprogramlama\obj\Debug\net5.0\ref\consoleprogramlama.dll
+C:\Users\dell\desktop\YasinPratikler\consoleprogramlama\obj\Debug\net5.0\consoleprogramlama.pdb
+C:\Users\dell\desktop\YasinPratikler\consoleprogramlama\obj\Debug\net5.0\consoleprogramlama.genruntimeconfig.cache
